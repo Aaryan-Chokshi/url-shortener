@@ -1,0 +1,11 @@
+{
+    "name": "URLInn - The new URL Shortener",
+    "version": "1.0.0",
+    "description": "Shorten long and hard-to-remember URLs into concise shorter ones.",
+    "manifest_version": 3,
+    "author": "BCG",
+    "action":{
+        "default_popup": "base.html",
+        "default_title": "URLInn - URL Shortener"
+    }
+}
