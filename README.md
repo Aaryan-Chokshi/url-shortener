@@ -1,4 +1,4 @@
-# python-project
+# URL Shortener
 
 This Python Project involved using a Flask environment to create and manage a database of shortened URLs, as well as their associated longer ones.
 The idea was to send in a shortened URL, while the server is running, and it will be automatically replaced by a longer URL.
